@@ -25,4 +25,5 @@ python-dotenv
 # Machine Learning Utilities
 numpy
 scikit-learn
+streamlit
 pydantic[email]

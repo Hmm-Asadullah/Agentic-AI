@@ -52,6 +52,9 @@ htmlcov/
 .idea/
 .DS_Store
 Thumbs.db
+NOTES WEEK Five.pdf
+ai course
+students_scores_dataset.csv
 
 # ML / model artifacts
 models/

@@ -2,6 +2,7 @@
 langchain
 langchain-core
 langchain-classic
+langchain-community
 
 # OpenAI Integration
 langchain-openai
@@ -27,3 +28,5 @@ numpy
 scikit-learn
 streamlit
 pydantic[email]
+pypdf
+beautifulsoup4

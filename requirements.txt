@@ -3,6 +3,7 @@ langchain
 langchain-core
 langchain-classic
 langchain-community
+langchain-experimental
 
 # OpenAI Integration
 langchain-openai

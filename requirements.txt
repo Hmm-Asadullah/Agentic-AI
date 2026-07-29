@@ -31,3 +31,8 @@ streamlit
 pydantic[email]
 pypdf
 beautifulsoup4
+
+# Vector Stores & Embeddings
+faiss-cpu
+chromadb
+tiktoken

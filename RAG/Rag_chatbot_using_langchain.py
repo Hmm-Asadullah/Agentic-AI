@@ -78,5 +78,5 @@ parallel_chain = RunnableParallel({
 
 final_chain = parallel_chain | prompt | llm | parser
 
-response = final_chain.invoke("what is Future of programming?")
+response = final_chain.invoke("summarize the video")
 print(response)

@@ -8,7 +8,7 @@ model = ChatGoogleGenerativeAI(model="gemini-3.6-flash")
 
 st.header('Reasearch Tool')
 
-paper_input = st.selectbox( "Select Research Paper Name", ["Attention Is All You Need", "BERT: Pre-training of Deep Bidirectional Transformers", "GPT-3: Language Models are Few-Shot Learners", "Diffusion Models Beat GANs on Image Synthesis"] )
+paper_input = st.text_input("Enter the research paper text name:")
 
 style_input = st.selectbox( "Select Explanation Style", ["Beginner-Friendly", "Technical", "Code-Oriented", "Mathematical"] ) 
 
